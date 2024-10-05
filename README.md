@@ -1,4 +1,4 @@
-🎟️ e-Ticket - Sistema de Compra de Ingressos 🎫
+### 🎟️ e-Ticket - Sistema de Compra de Ingressos 🎫
 Descrição
 Este é um sistema simples de compra de ingressos desenvolvido em HTML, CSS e JavaScript. O usuário pode escolher entre diferentes tipos de ingressos (Pista, Cadeira Superior, Cadeira Inferior), inserir a quantidade desejada e realizar a compra. O sistema verifica a disponibilidade de ingressos em tempo real e ajusta o total restante após a compra.
 
